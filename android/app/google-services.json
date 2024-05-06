@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "734665122236",
+    "project_id": "safe-chat-21e68",
+    "storage_bucket": "safe-chat-21e68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734665122236:android:445be8685252f313748bb9",
+        "android_client_info": {
+          "package_name": "com.example.safe_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAocKKn_QEhNelWL809swElueeIRzSDPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
